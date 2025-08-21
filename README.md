@@ -4,7 +4,7 @@ This is a responsive micro-application designed to help pet owners log their pet
 Tech Stack
 The application is built using React for the front-end and Node.js/Express for the back-end. I chose this stack because of my familiarity with JavaScript, its extensive community support, and its suitability for building a small, scalable API-based application.
 How to Run
-Clone the repository: git clone [your-repo-link]
+Clone the repository: git clone <https://github.com/Blodreina912/pet-activity-tracker>
 
 Navigate to the back-end folder: cd pet-tracker-backend
 
